@@ -1,0 +1,10 @@
+Speaker	Vowel	N	F1'	F2'	F1' gl	F2' gl
+Isabel	{	6	921.6	1561.6	-	-
+Isabel	A	15	842.1	1284.1	-	-
+Isabel	O	19	827.7	1266.7	-	-
+Isabel	U	7	577.4	1403.3	-	-
+Isabel	E	7	764.6	1827.4	-	-
+Isabel	I	8	566.7	2224.4	-	-
+Isabel	i	6	440.2	2500.0	-	-
+Isabel	u	6	415.8	1350.7	-	-
+Isabel	V	6	727.1	1509.1	-	-

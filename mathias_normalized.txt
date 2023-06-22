@@ -1,0 +1,10 @@
+Speaker	Vowel	N	F1'	F2'	F1' gl	F2' gl
+interview	i	5	423.757	2181.766	NA	NA
+interview	V	5	524.538	1676.331	NA	NA
+interview	{	13	864.527	1653.471	NA	NA
+interview	u	9	427.076	1854.7	NA	NA
+interview	O	5	813.386	1229.01	NA	NA
+interview	A	5	846.248	1266.928	NA	NA
+interview	I	5	555.676	1839.913	NA	NA
+interview	E	5	730.134	1666.036	NA	NA
+interview	U	5	691.475	1399.764	NA	NA
